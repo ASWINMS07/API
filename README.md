@@ -279,7 +279,4 @@ decodeURIComponent("C%2B%2B%20vs%20Java") // "C++ vs Java"
 
 ---
 
-### How to use this in your repo
-- Keep this file as `README.md`.
-- Put all images in `images/` and keep the file names as referenced above.
-- Push both to GitHub. The images will render automatically.
+
