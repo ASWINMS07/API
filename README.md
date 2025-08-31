@@ -199,7 +199,7 @@ if __name__ == "__main__":
 ```
 Run it: `python app.py` → test with Postman/cURL.
 
-![Flask Logo](https://github.com/ASWINMS07/API/blob/main/flask-logo-icon.png)
+![Flask Logo](https://github.com/ASWINMS07/API/blob/main/images.png)
 
 ---
 
