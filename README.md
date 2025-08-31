@@ -75,7 +75,7 @@ We can classify APIs in a few useful ways:
 - **Rate‑limit**, **input validation**, **CORS**, **HTTPS** only
 
 ### REST methods at a glance
-![REST Methods](./images/rest-methods.png)
+![REST Methods](https://github.com/ASWINMS07/API/blob/main/Screenshot%202025-08-31%20040549.png)
 
 ---
 
