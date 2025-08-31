@@ -130,7 +130,7 @@ Body
 ```
 **Response** → `200 OK` (or `204 No Content`).
 
-![PUT Method](./images/put-method.png)
+![PUT Method](https://github.com/ASWINMS07/API/blob/main/Screenshot%202025-08-31%20041009.png)
 
 ---
 
