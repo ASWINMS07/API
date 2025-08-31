@@ -1,5 +1,5 @@
 # API — *Application Programming Interface* 
-Your clean, exam-ready, GitHub-friendly notes. Save this as your repo README and drop the images inside an `images/` folder (already included below).
+
 
 ---
 
