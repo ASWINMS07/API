@@ -93,7 +93,7 @@ Accept: application/json
 {"aadhaar":"1234","name":"Vijay","dob":"2005-04-12"}
 ```
 
-![GET Method](./images/get-method.png)
+![GET Method](https://github.com/ASWINMS07/API/blob/main/Screenshot%202025-08-31%20040834.png)
 
 ---
 
