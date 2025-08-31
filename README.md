@@ -202,11 +202,11 @@ if __name__ == "__main__":
 ```
 Run it: `python app.py` → test with Postman/cURL.
 
-![Flask Logo](https://github.com/ASWINMS07/API/blob/main/images.png)
 
 ---
 
 ## 🧪 What is **Postman**?
+![Postman Logo](https://github.com/ASWINMS07/API/blob/main/Postman_(software).png)
 **Postman** is a desktop/web app to **build, send, and test API requests** without writing front‑end code.
 
 **How it works**
