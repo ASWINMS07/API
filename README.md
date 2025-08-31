@@ -112,7 +112,7 @@ Body
 ```
 **Response** → `201 Created` with the new resource.
 
-![POST Method](./images/post-method.png)
+![POST Method](https://github.com/ASWINMS07/API/blob/main/Screenshot%202025-08-31%20040946.png)
 
 ---
 
