@@ -206,8 +206,12 @@ Run it: `python app.py` → test with Postman/cURL.
 ---
 
 ## 🧪 What is **Postman**?
+
 ![Postman Logo](https://github.com/ASWINMS07/API/blob/main/Postman_(software).png)
+
+
 **Postman** is a desktop/web app to **build, send, and test API requests** without writing front‑end code.
+
 
 **How it works**
 - Create a **Collection** of requests (GET/POST/PUT/DELETE).
@@ -225,7 +229,7 @@ pm.test("Status is 200", function () { pm.response.to.have.status(200); });
 pm.test("Has name", function () { pm.expect(pm.response.json()).to.have.property("name"); });
 ```
 
-![Postman Logo](https://github.com/ASWINMS07/API/blob/main/Postman_(software).png)
+
 
 ---
 
