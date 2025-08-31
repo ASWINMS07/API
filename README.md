@@ -1,4 +1,4 @@
-# API — *Application Programming Interface* (Full Guide)
+# API — *Application Programming Interface* 
 Your clean, exam-ready, GitHub-friendly notes. Save this as your repo README and drop the images inside an `images/` folder (already included below).
 
 ---
@@ -199,7 +199,7 @@ if __name__ == "__main__":
 ```
 Run it: `python app.py` → test with Postman/cURL.
 
-![Flask Logo](./images/flask-logo.svg)
+![Flask Logo](https://github.com/ASWINMS07/API/blob/main/flask-logo-icon.png)
 
 ---
 
