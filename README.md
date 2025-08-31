@@ -222,7 +222,7 @@ pm.test("Status is 200", function () { pm.response.to.have.status(200); });
 pm.test("Has name", function () { pm.expect(pm.response.json()).to.have.property("name"); });
 ```
 
-![Postman Logo](./images/postman-logo.svg)
+![Postman Logo](https://github.com/ASWINMS07/API/blob/main/Postman_(software).png)
 
 ---
 
