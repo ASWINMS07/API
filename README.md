@@ -41,7 +41,7 @@ We can classify APIs in a few useful ways:
 - **GraphQL** → client asks for **exact fields** it needs; great for mobile.
 - **gRPC** → super fast, binary (Protocol Buffers), great for microservices.
 
-![API Types](C:\Users\HAI\OneDrive\Pictures\Screenshots 1)
+![API Types](file:///C:/Users/HAI/OneDrive/Pictures/Screenshots%201/Screenshot%202025-08-31%20040447.png)
 
 ### 3) By **Use Case**
 - **Web APIs** (browser ↔ server), **OS APIs** (Android/iOS/Windows),
